@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        NFL TRACKER
+        NFL TRACKER 1
       </div>
     );
   }
